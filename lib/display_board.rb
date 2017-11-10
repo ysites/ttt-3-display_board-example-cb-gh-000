@@ -4,8 +4,7 @@
 def display_board
   prints "   |   |   "
   prints "-----------"
-  prints "  |  |  "
+  prints "   |   |   "
   prints "-----------"
-  prints "  |  |  "
+  prints "   |   |   "
 end
-
